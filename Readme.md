@@ -1,10 +1,10 @@
 Tugas Akhir Mata kuliah Penanaman Sistem Tertanam
 
-Rangga Vallian Sayoga
-Hanif A Rahadiansyah
-Putra Wisnu Adjie
-Muhammad Fauzan Adzhima
-Muhammad Gibran Al Khafi
+Rangga Vallian Sayoga/l
+Hanif A Rahadiansyah/l
+Putra Wisnu Adjie/l
+Muhammad Fauzan Adzhima/l
+Muhammad Gibran Al Khafi/l
 
 Link Github: https://github.com/Sunzima/PST-Growth-Tent
 Link Video Demo alat : https://drive.google.com/file/d/1YDA1_QntRR-eNU44YvhL8f8PzL35HB0h/view?usp=sharing
