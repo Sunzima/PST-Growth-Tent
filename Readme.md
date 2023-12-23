@@ -8,6 +8,8 @@ Muhammad Gibran Al Khafi
 
 Link Github: https://github.com/Sunzima/PST-Growth-Tent
 
-Link Video Demo alat : https://youtu.be/cMfFQFMwizk
+Video Demo alat 
+
+https://img.youtube.com/vi/cMfFQFMwizk/maxresdefault.jpg
 
 Link Laporan: https://telkomuniversityofficial-my.sharepoint.com/:w:/g/personal/hanifar_student_telkomuniversity_ac_id/ESfLGMpfJXlNhu7KmbcQgZEB8s2uk2aQ7N0MEHAkP2gviA?e=7Xh87N
