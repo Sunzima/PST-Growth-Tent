@@ -7,6 +7,7 @@ Muhammad Fauzan Adzhima\
 Muhammad Gibran Al Khafi
 
 
-Video Demo alat 
-[https://github.com/Sunzima/PST-Growth-Tent-Kel1/blob/bab1f3b64a3ca39b42abb7dc279deffaa58ed9e1/Demo%20Alat.mp4
-](https://github.com/Sunzima/PST-Growth-Tent-Kel1/blob/bab1f3b64a3ca39b42abb7dc279deffaa58ed9e1/Demo%20Alat.mp4)
+Video Demo alat
+
+https://github.com/Sunzima/PST-Growth-Tent-Kel1/assets/63706946/bf366f64-4627-4a20-8386-249ec83934c4
+
